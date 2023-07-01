@@ -1,34 +1,33 @@
 navbar:
   blog_title: JasonChan
-  ground_glass:
-    enable: true
+  ground_glass: false
 index:
-  banner_img: /images/uploads/background.webp
+  banner_img: https://www.dmoe.cc/random.php
   banner_img_height: 100
   slogan:
-    text: 这是一个演示博客,可以登陆后台实际测试效果
+    text: JasonChan|Blog
 post:
-  banner_img: /images/uploads/mmexport1602581319886.webp
+  banner_img: https://www.dmoe.cc/random.php
   banner_img_height: 70
-  default_index_img: /images/uploads/wallhaven-g8wvm7.webp
+  default_index_img: https://www.dmoe.cc/random.php
 archive:
-  banner_img: /images/uploads/1616421595370-wallhaven-q6ov7d.jpg
+  banner_img: https://www.dmoe.cc/random.php
   banner_img_height: 80
   subtitle: null
 category:
-  banner_img: /images/uploads/1616421818281-wallhaven-zm93dj.jpg
+  banner_img: https://www.dmoe.cc/random.php
   banner_img_height: 80
   subtitle: null
 tag:
-  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
+  banner_img: https://www.dmoe.cc/random.php
   banner_img_height: 80
   subtitle: null
 about:
-  banner_img: /images/uploads/wallhaven-pkkr2.webp
+  banner_img: https://www.dmoe.cc/random.php
   banner_img_height: 80
   subtitle: null
   avatar: /img/avatar.png
-  name: Fluid
+  name: JasonChan
   intro: An elegant theme for Hexo
 links:
   banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
