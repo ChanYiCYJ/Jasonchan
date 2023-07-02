@@ -1,6 +1,6 @@
 navbar:
   blog_title: JasonChan
-  ground_glass: false
+  ground_glass: true
 index:
   banner_img: https://www.dmoe.cc/random.php
   banner_img_height: 100
