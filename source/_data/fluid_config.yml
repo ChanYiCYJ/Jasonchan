@@ -34,6 +34,10 @@ links:
   banner_img_height: 80
   subtitle: null
   items:
+    - link: https://9941y.top/
+      title: Sh1zuku的小屋
+      intro: 唯爱与科技不可辜负
+      avatar: https://i0.hdslb.com/bfs/face/fdf541600f120a2af1d910ac857364d0e2442a36.jpg
     - title: Fluid Repo
       intro: 主题 GitHub 仓库
       link: https://github.com/fluid-dev/hexo-theme-fluid
