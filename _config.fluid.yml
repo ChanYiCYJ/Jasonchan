@@ -646,7 +646,7 @@ post:
   # 版权声明，会显示在每篇文章的结尾
   # Copyright, will be displayed at the end of each post
   copyright:
-    enable: true
+    enable: false
 
     # CreativeCommons license
     # Options: BY | BY-SA | BY-ND | BY-NC | BY-NC-SA | BY-NC-ND
@@ -654,7 +654,7 @@ post:
 
     # 显示作者
     author:
-      enable: true
+      enable: false
 
     # 显示发布日期
     # Show post date
@@ -729,7 +729,7 @@ post:
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus
-    type: disqus
+    type: Valine
 
 
 #---------------------------
